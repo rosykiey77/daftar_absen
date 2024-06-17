@@ -7,7 +7,6 @@ import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'profile_screen.dart';
-import 'timer_widget.dart';
 import 'timer_stream.dart';
 
 class HomeScreen extends StatefulHookConsumerWidget {
